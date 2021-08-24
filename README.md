@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... API Authentication
 - 🌱 I’m currently learning ... AWS Projects
 - 👯 I’m looking to collaborate on ... AWS Projects / Terraform 
-- 🤔 I’m looking for help with ... Anything
+- 🤔 I’m looking for help with ... Cloud Project Ideas
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [https://www.linkedin.com/in/binaabdulrahim/]
 - 😄 Pronouns: ... She/Her
