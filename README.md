@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other DevOps Engineers. 
 - 🤔 I’m looking for help with cloud project ideas.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [https://www.linkedin.com/in/binaabdulrahim/]
+- 📫 How to reach me: [<img align="left" alt="binaabdulrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Afghanistan and I love traveling, skydiving, and hacking. 
 
