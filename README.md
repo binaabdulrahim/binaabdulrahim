@@ -9,7 +9,6 @@
 - 📫 How to reach me: [https://www.linkedin.com/in/binaabdulrahim/]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Afghanistan and I love traveling, skydiving, and hacking. 
--->s
 
 ### Connect with me:
 
@@ -21,7 +20,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats-binaabdulrahim.vercel.app/api?username=binaabdulrahim&show_icons=true&hide_border=true" />
+  <img align="left" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats-binaabdulrahim.vercel.app/api?username=binaabdulrahim&show_icons=true&hide_border=true"/>
 
 </details>
 
