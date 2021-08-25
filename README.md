@@ -2,7 +2,7 @@
 
 ## I'm a Security Engineer, Traveler, and Caffeholic!
 - 🔭 I’m currently working on API authentication.
-- 🌱 I’m currently learning AWS projects.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate with other DevOps Engineers. 
 - 🤔 I’m looking for help with cloud project ideas.
 - 💬 Ask me about anything.
