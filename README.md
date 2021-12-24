@@ -13,15 +13,21 @@
 
 ## Connect with me:
 
-[<img align="left" alt="binaabdulrahim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="binaabdulrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="middle" alt="binaabdulrahim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="middle" alt="binaabdulrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
   <img align="middle" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binaabdulrahim&theme=tokyonight"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaabdulrahim)](https://github.com/binaabdulrahim/github-readme-stats)
 
 </details>
 
 [twitter]: https://twitter.com/binaabdulrahim
 [linkedin]: https://www.linkedin.com/in/binaabdulrahim/
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binaabdulrahim&repo=github-readme-stats)](https://github.com/binaabdulrahim/github-readme-stats)
+
+
 
