@@ -17,7 +17,7 @@
 
 <br />
 
-  <img align="middle" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binaabdulrahim&theme=radical"/>
+  <img align="middle" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binaabdulrahim&theme=tokyonight"/>
 
 </details>
 
