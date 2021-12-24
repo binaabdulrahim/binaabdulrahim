@@ -3,9 +3,7 @@
 <h3 align="center">I'm a Cloud Security Engineer, Traveler, and Caffeholic!</h3>
 <img align="right" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binaabdulrahim&label=Profile%20views&color=0e75b6&style=flat" alt="binaabdulrahim" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binaabdulrahim" alt="binaabdulrahim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binaabdulrahim" alt="binaabdulrahim" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/binaabdulrahim" target="blank"><img src="https://img.shields.io/twitter/follow/binaabdulrahim?logo=twitter&style=for-the-badge" alt="binaabdulrahim" /></a> </p>
 
