@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Bina Abdul Rahim</h1>
 <h3 align="center">I'm a Cloud Security Engineer, Traveler, and Caffeholic!</h3>
+<img align="right" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binaabdulrahim&label=Profile%20views&color=0e75b6&style=flat" alt="binaabdulrahim" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binaabdulrahim" alt="binaabdulrahim" /></a> </p>
@@ -25,7 +27,7 @@
 [linkedin]: https://www.linkedin.com/in/binaabdulrahim/
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/binaabdulrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binaabdulrahim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/binaabdulrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binaabdulrahim" height="30" width="40" /></a>
