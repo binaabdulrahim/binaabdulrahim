@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Afghanistan and I love traveling, skydiving, and hacking. 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="middle" alt="binaabdulrahim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="middle" alt="binaabdulrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
