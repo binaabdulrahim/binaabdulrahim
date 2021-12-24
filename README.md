@@ -13,10 +13,9 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=binaabdulrahim&show_icons=true&locale=en" alt="binaabdulrahim" /></p>
 
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=binaabdulrahim&show_icons=true&locale=en&layout=compact" alt="binaabdulrahim" /></p>
 
-<img align="center" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
+<img align="left" width="200px:" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
 
 
 </details>
