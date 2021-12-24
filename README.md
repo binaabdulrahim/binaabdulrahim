@@ -1,7 +1,7 @@
 ###  Hi there, I'm Bina Abdul Rahim 👋 
 
-## I'm a Security Engineer, Traveler, and Caffeholic!
-- 🔭 I’m currently working on API authentication.
+## I'm a Cloud Security Engineer, Traveler, and Caffeholic!
+- 🔭 I’m currently working on learning AWS Certs, Terraform, Github, K8S, & CI/CD .
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate with other DevOps Engineers. 
 - 🤔 I’m looking for help with cloud project ideas.
