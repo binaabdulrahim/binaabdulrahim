@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/binaabdulrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binaabdulrahim" height="30" width="40" /></a>
 </p>
 
-<img align="right" width="300px:" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
+<img  width="300px:" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
 
 
 </details>
