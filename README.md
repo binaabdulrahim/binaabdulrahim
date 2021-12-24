@@ -17,9 +17,6 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="middle" alt="babdulrahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binaabdulrahim&show_icons=true&hide_border=true"/>
 
 </details>
