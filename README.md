@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binaabdulrahim" alt="binaabdulrahim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/binaabdulrahim" target="blank"><img src="https://img.shields.io/twitter/follow/binaabdulrahim?logo=twitter&style=for-the-badge" alt="binaabdulrahim" />
+<p align="left"> <a href="https://twitter.com/binaabdulrahim" target="blank"><img src="https://img.shields.io/twitter/follow/binaabdulrahim?logo=twitter&style=for-the-badge" alt="binaabdulrahim" /></a> </p>
+
+<p align="center">
 - 🔭 I’m currently working on learning AWS Certs, Terraform, Github, K8S, & CI/CD .
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate with other DevOps Engineers. 
@@ -13,7 +15,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: [<img align="left" alt="binaabdulrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 👨‍💻 All of my projects are available at [https://github.com/binaabdulrahim](https://github.com/binaabdulrahim)
-- ⚡ Fun fact **I'm from Afghanistan and I love traveling, skydiving, and hacking.** </a> </p>
+- ⚡ Fun fact **I'm from Afghanistan and I love traveling, skydiving, and hacking.**
+</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
 
