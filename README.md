@@ -1,5 +1,5 @@
 ###  Hi there, I'm Bina Abdul Rahim 👋 
-<img align="right"![Pink Fun Cloud Mental Health Therapy Games Logo (1)](https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif)>
+<img align="right" src="https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif">
 
 ## I'm a Cloud Security Engineer, Traveler, and Caffeholic!
 - 🔭 I’m currently working on learning AWS Certs, Terraform, Github, K8S, & CI/CD .
